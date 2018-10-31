@@ -1,2 +1,34 @@
-/bin/
 /target/
+/.classpath
+/.settings
+/.project
+*.app
+*.jar
+*.ipa
+
+*.DS_Store
+
+*.bin
+*.log
+
+# Single Module Project
+/target/
+/bin/
+/build/
+/doc/
+/test-output/
+/report/
+/reports/
+
+.metadata/
+.recommenders/
+
+
+# Multi Modules Project
+/**/target/
+/**/doc/
+/**/bin/
+/**/build/
+/**/test-output/
+/**/report/
+/**/reports

@@ -5,8 +5,8 @@
     <classes>
       <class name="testPackage.NewTest">
         <methods>
-          <include name="method2"/>
           <include name="method1"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- testPackage.NewTest -->
     </classes>
